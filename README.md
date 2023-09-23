@@ -47,3 +47,7 @@ Also given the rust backend and WebUI frontend, it could also be possible to run
 This would allow an NFC tag or QR code to just be placed in a room with the same Wi-Fi for connection.
 
 Though the focus is a mobile and desktop app for now.
+
+# Setting up the project
+If you want to just dev and test on PC or Mac then its a lot easier, though make sure to download the prerequisites for the platform you are on.
+https://beta.tauri.app/guides/prerequisites/
