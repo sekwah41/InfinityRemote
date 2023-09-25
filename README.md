@@ -51,3 +51,10 @@ Though the focus is a mobile and desktop app for now.
 # Setting up the project
 If you want to just dev and test on PC or Mac then its a lot easier, though make sure to download the prerequisites for the platform you are on.
 https://beta.tauri.app/guides/prerequisites/
+
+## Android
+Make sure to check information such as the jbr location for JAVA_HOME as you will likely need to manually find the location vs what they put on the guide.
+
+Make sure when you build the app that you are on the same Wi-Fi. It doesn't seem like it uses ADB forwarding like Ionic though that may be how I have it set up currently.
+
+Also make sure you enable developer mode on windows so symlinks work.
